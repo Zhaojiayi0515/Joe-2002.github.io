@@ -10,7 +10,7 @@ redirect_from:
 
 
   
-  [中文文档](./Chinese.md)
+  [中文文档](../Chinese.md)
 
 # 🎓Education
 
