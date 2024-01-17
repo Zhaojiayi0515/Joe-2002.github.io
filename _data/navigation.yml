@@ -10,7 +10,7 @@ main:
     url: "#certificate"
 
   - title: "Projects"
-    url: "#Projects"
+    url: "#projects"
     
   - title: "Professional Experience"
     url: "#professional-experience"
