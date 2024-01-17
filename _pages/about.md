@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-  
-  [中文文档](../Chinese.md)
-
 # 🎓Education
 
 - **University of Galway, Ireland**
