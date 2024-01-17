@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "KeChen Li"
 description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Zhaojiayi0515/jianlili.github.io"
+repository               : "Zhaojiayi0515.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "KeChen Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/lkc1.png"
   bio              : "East China University of Science and Technology"
   location         : "Shanghai, China"
   employer         : 
