@@ -59,7 +59,7 @@
   Keywords: Autoregressive Integrated Moving Average Model (AIRMA), BP Neural Network, Inventory Management, Demand Forecasting, Production Scheduling.  
   Achievement: Jiangsu Regional Second Prize, 2022 National Undergraduate Mathematical Contest in Modeling.
 
-# 📌 Professional Experience
+# 📌Professional Experience
 
 - **Jiangsu Lincheng Technology Co., Ltd. (Member of Nantong Software Industry Association)**
   - *10/2021–present*
@@ -97,7 +97,7 @@
     - Developed a mobile data annotation tool built with a frontend-backend separation architecture using the Django and UniApp frameworks, provided an efficient solution for data processing in the enterprise’s NLP models.
 
 
-# 💻 Project Experience
+# 💻Project Experience
 
 - **Classification of Chinese Medicinal Materials based on Principal Component Analysis and K-Nearest Neighbour Algorithm**
   - *Group Project Leader: Data Analysis and Model Building*
@@ -116,7 +116,7 @@
     - **Overview:** The project aims to create an intelligent human-machine interaction product with a data-driven platform, leveraging advanced technologies such as LangChain, vector databases, large models, and NLP to enhance knowledge retrieval efficiency and expand into personal knowledge systems for enterprises and individuals.
     - **Responsibility:** Conducted market research and competitor analysis, identified target users, implemented efficient storage, retrieval, and matching of knowledge base data using vector databases, leveraged GPT models for fast full-text search and precise result matching, developed secure backend with Django and visually appealing frontend with Vue.js, and integrated with LangChain's API and other technologies for enhanced data processing. Utilized LangChain and GPT models to improve user experience with intelligent replies. GitHub: [https://github.com/Joe-2002/LinChance_GPT](https://github.com/Joe-2002/LinChance_GPT)
 
-# 📜 Extracurricular Activity
+# 📜Extracurricular Activity
 
 - **Nantong Normal College**
   - *President, Technology Innovation Society (01/2021–07/2023)*
@@ -133,14 +133,14 @@
     - **Responsibility:** Organized and conducted various lectures and courses to improve students' mathematical modeling skills and academic literacy.
     - **Achievement:** Participated in the organization of student competitions and successfully organized a series of high-quality lectures and competitions, resulting in the club being awarded Five-Star Club status.
 
-# 📝 Copyrights
+# 📝Copyrights
 
 - Recreational Vehicle Market Demand Marketing System (2023SR0217158) - 11/2022
 - Talent Matching System V1.0 based on Artificial Intelligence (2022SR1570163) - 08/2022
 - Intelligent Career Planning System 2.1 based on Data Mining and User Profiling (2022SR1346851) - 03/2022
 - Teaching Collaboration Platform V1.0 Based on Django and Vue Front-End Separation (2021SR1494741) - 08/2023
 - Digital Intelligent Enterprise Intelligent Assistant System Based on LLM (Large Language Model) and Vector Database (2023SR1583655) - 08/2023
-# 🎖 Honors and Awards
+# ✨Honors and Awards
 - *12/2023* - 2023 Baidu Search Innovation Competition Search Answer Organization Track Top 10
 - *12/2023* - 2023 Baidu Search Innovation Competition Design an AI native application track that solves the needs of search users Champion
 - *05/2023* - Merit Student of Nantong City
