@@ -13,16 +13,16 @@ main:
     url: "#Projects"
     
   - title: "Professional Experience"
-    url: "#-professional-experience"
+    url: "#professional-experience"
     
   - title: "Projects Experience"
-    url: "#-project-experience"
+    url: "#project-experience"
     
   - title: "Extracurricular Activity"
-    url: "#-extracurricular-activity"
+    url: "#extracurricular-activity"
     
   - title: " Copyrights"
-    url: "#-copyrights"
+    url: "#copyrights"
     
-  - title: "🎖 Honors and Awards"
-    url: "#-honors-and-awards"
+  - title: "Honors and Awards"
+    url: "#honors-and-awards"
